@@ -1,0 +1,7 @@
+* Description
+** sbatch
+run sbatch_generator.py to generate the given slurm sbatch script.
+** training 
+run the auto_run.py to auto train the model for several times
+** test
+sh build_latest_model_list.sh first to get the latest model name, then run the auto_test.py
